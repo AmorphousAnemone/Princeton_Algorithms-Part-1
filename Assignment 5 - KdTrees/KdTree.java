@@ -8,7 +8,6 @@ public class KdTree {
     private Queue<Point2D> range = new LinkedList<Point2D>();
     private Node root = null;       // root of KD tree
     private boolean contains = false;
-    // private Node subTreeRoot = null;
     private double minDist;
     private Point2D nearest;
     private int counter;
