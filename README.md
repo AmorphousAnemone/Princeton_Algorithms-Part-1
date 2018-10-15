@@ -2,3 +2,5 @@
 
 Princeton Algorithms, Part 1 
 was completed over the course of 3 months
+
+Class Score: 92/100
