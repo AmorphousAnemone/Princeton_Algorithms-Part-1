@@ -7,9 +7,9 @@ import edu.princeton.cs.algs4.RectHV;
 
 public class PointSET {
     
-    private final TreeSet<Point2D> tree;
+   private final TreeSet<Point2D> tree;
    
-    public PointSET()                            // construct an empty set of points 
+   public PointSET()                            // construct an empty set of points 
    {
         tree = new TreeSet<Point2D>();
    }
